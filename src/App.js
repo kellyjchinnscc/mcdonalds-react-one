@@ -60,6 +60,7 @@ function App() {
     setSelectedFoodCals(calories[parallelIndex])
   }
 
+  let myName = "Kelly"
   // JSX Implementation
   return (
     <div className="App container">
