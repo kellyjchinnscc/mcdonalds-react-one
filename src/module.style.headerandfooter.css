@@ -1,0 +1,16 @@
+.footer{
+    background-color: yellow;
+}
+
+.header{
+    background-color: tomato;
+}
+
+.header h2{
+    font-size: 25px;
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
